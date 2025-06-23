@@ -58,8 +58,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -68,7 +72,7 @@
               "RelativeDocumentMoniker": "MyWebAPI\\Migrations\\MyDbContextModelSnapshot.cs",
               "ToolTip": "C:\\Users\\ngoc.hh\\Desktop\\MyWebAPI\\MyWebAPI\\Migrations\\MyDbContextModelSnapshot.cs",
               "RelativeToolTip": "MyWebAPI\\Migrations\\MyDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T07:41:17.927Z",
               "EditorCaption": ""
@@ -83,8 +87,7 @@
               "RelativeToolTip": "MyWebAPI\\Migrations\\20250505074055_DbInit.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T07:40:56.16Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T07:40:56.16Z"
             },
             {
               "$type": "Document",
@@ -96,8 +99,7 @@
               "RelativeToolTip": "MyWebAPI\\Data\\MyDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T06:07:48.518Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-14T06:07:48.518Z"
             },
             {
               "$type": "Document",
@@ -109,8 +111,7 @@
               "RelativeToolTip": "MyWebAPI\\Models\\HangHoa.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T03:50:19.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-14T03:50:19.675Z"
             },
             {
               "$type": "Document",
@@ -122,8 +123,7 @@
               "RelativeToolTip": "MyWebAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-02T09:16:41.86Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T09:16:41.86Z"
             },
             {
               "$type": "Document",
@@ -135,8 +135,7 @@
               "RelativeToolTip": "MyWebAPI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T06:09:44.162Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T06:09:44.162Z"
             },
             {
               "$type": "Document",
@@ -148,8 +147,7 @@
               "RelativeToolTip": "MyWebAPI\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T06:10:04.468Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T06:10:04.468Z"
             },
             {
               "$type": "Document",
@@ -161,8 +159,7 @@
               "RelativeToolTip": "MyWebAPI\\Data\\HangHoa.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T05:57:09.197Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-14T05:57:09.197Z"
             },
             {
               "$type": "Document",
@@ -174,12 +171,7 @@
               "RelativeToolTip": "MyWebAPI\\Controllers\\HangHoaController.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAswC4AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T03:54:23.483Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2025-04-14T03:54:23.483Z"
             },
             {
               "$type": "Document",
@@ -191,8 +183,7 @@
               "RelativeToolTip": "MyWebAPI\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAIBJwBQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T09:25:40.405Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T09:25:40.405Z"
             },
             {
               "$type": "Document",
@@ -204,8 +195,7 @@
               "RelativeToolTip": "MyWebAPI\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T06:33:54.836Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T06:33:54.836Z"
             },
             {
               "$type": "Document",
@@ -213,12 +203,11 @@
               "Title": "MyWebAPI.csproj",
               "DocumentMoniker": "C:\\Users\\ngoc.hh\\Desktop\\MyWebAPI\\MyWebAPI\\MyWebAPI.csproj",
               "RelativeDocumentMoniker": "MyWebAPI\\MyWebAPI.csproj",
-              "ToolTip": "C:\\Users\\ngoc.hh\\Desktop\\MyWebAPI\\MyWebAPI\\MyWebAPI.csproj*",
-              "RelativeToolTip": "MyWebAPI\\MyWebAPI.csproj*",
+              "ToolTip": "C:\\Users\\ngoc.hh\\Desktop\\MyWebAPI\\MyWebAPI\\MyWebAPI.csproj",
+              "RelativeToolTip": "MyWebAPI\\MyWebAPI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-14T03:42:26.111Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-14T03:42:26.111Z"
             }
           ]
         }
