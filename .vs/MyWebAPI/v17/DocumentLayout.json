@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ngoc.hh\\Desktop\\MyWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78CB3C60-8DC5-4993-9E67-0BED59CB6061}|MyWebAPI\\MyWebAPI.csproj|c:\\users\\ngoc.hh\\desktop\\mywebapi\\mywebapi\\migrations\\mydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78CB3C60-8DC5-4993-9E67-0BED59CB6061}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\migrations\\mydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78CB3C60-8DC5-4993-9E67-0BED59CB6061}|MyWebAPI\\MyWebAPI.csproj|c:\\users\\ngoc.hh\\desktop\\mywebapi\\mywebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78CB3C60-8DC5-4993-9E67-0BED59CB6061}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78CB3C60-8DC5-4993-9E67-0BED59CB6061}|MyWebAPI\\MyWebAPI.csproj|c:\\users\\ngoc.hh\\desktop\\mywebapi\\mywebapi\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78CB3C60-8DC5-4993-9E67-0BED59CB6061}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78CB3C60-8DC5-4993-9E67-0BED59CB6061}|MyWebAPI\\MyWebAPI.csproj|c:\\users\\ngoc.hh\\desktop\\mywebapi\\mywebapi\\migrations\\20250505074055_dbinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78CB3C60-8DC5-4993-9E67-0BED59CB6061}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\migrations\\20250505074055_dbinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78CB3C60-8DC5-4993-9E67-0BED59CB6061}|MyWebAPI\\MyWebAPI.csproj|c:\\users\\ngoc.hh\\desktop\\mywebapi\\mywebapi\\models\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78CB3C60-8DC5-4993-9E67-0BED59CB6061}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\models\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78CB3C60-8DC5-4993-9E67-0BED59CB6061}|MyWebAPI\\MyWebAPI.csproj|c:\\users\\ngoc.hh\\desktop\\mywebapi\\mywebapi\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78CB3C60-8DC5-4993-9E67-0BED59CB6061}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78CB3C60-8DC5-4993-9E67-0BED59CB6061}|MyWebAPI\\MyWebAPI.csproj|c:\\users\\ngoc.hh\\desktop\\mywebapi\\mywebapi\\data\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78CB3C60-8DC5-4993-9E67-0BED59CB6061}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\data\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78CB3C60-8DC5-4993-9E67-0BED59CB6061}|MyWebAPI\\MyWebAPI.csproj|c:\\users\\ngoc.hh\\desktop\\mywebapi\\mywebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78CB3C60-8DC5-4993-9E67-0BED59CB6061}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78CB3C60-8DC5-4993-9E67-0BED59CB6061}|MyWebAPI\\MyWebAPI.csproj|c:\\users\\ngoc.hh\\desktop\\mywebapi\\mywebapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78CB3C60-8DC5-4993-9E67-0BED59CB6061}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78CB3C60-8DC5-4993-9E67-0BED59CB6061}|MyWebAPI\\MyWebAPI.csproj|c:\\users\\ngoc.hh\\desktop\\mywebapi\\mywebapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78CB3C60-8DC5-4993-9E67-0BED59CB6061}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78CB3C60-8DC5-4993-9E67-0BED59CB6061}|MyWebAPI\\MyWebAPI.csproj|c:\\users\\ngoc.hh\\desktop\\mywebapi\\mywebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{78CB3C60-8DC5-4993-9E67-0BED59CB6061}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78CB3C60-8DC5-4993-9E67-0BED59CB6061}|MyWebAPI\\MyWebAPI.csproj|c:\\users\\ngoc.hh\\desktop\\mywebapi\\mywebapi\\mywebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{78CB3C60-8DC5-4993-9E67-0BED59CB6061}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\mywebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\ngoc.hh\\Desktop\\MyWebAPI\\MyWebAPI\\Migrations\\MyDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "MyWebAPI\\Migrations\\MyDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\ngoc.hh\\Desktop\\MyWebAPI\\MyWebAPI\\Migrations\\MyDbContextModelSnapshot.cs",
+              "RelativeToolTip": "MyWebAPI\\Migrations\\MyDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T07:41:17.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250505074055_DbInit.cs",
+              "DocumentMoniker": "C:\\Users\\ngoc.hh\\Desktop\\MyWebAPI\\MyWebAPI\\Migrations\\20250505074055_DbInit.cs",
+              "RelativeDocumentMoniker": "MyWebAPI\\Migrations\\20250505074055_DbInit.cs",
+              "ToolTip": "C:\\Users\\ngoc.hh\\Desktop\\MyWebAPI\\MyWebAPI\\Migrations\\20250505074055_DbInit.cs",
+              "RelativeToolTip": "MyWebAPI\\Migrations\\20250505074055_DbInit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T07:40:56.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ngoc.hh\\Desktop\\MyWebAPI\\MyWebAPI\\Data\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "MyWebAPI\\Data\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\ngoc.hh\\Desktop\\MyWebAPI\\MyWebAPI\\Data\\MyDbContext.cs",
+              "RelativeToolTip": "MyWebAPI\\Data\\MyDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T06:07:48.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HangHoa.cs",
+              "DocumentMoniker": "C:\\Users\\ngoc.hh\\Desktop\\MyWebAPI\\MyWebAPI\\Models\\HangHoa.cs",
+              "RelativeDocumentMoniker": "MyWebAPI\\Models\\HangHoa.cs",
+              "ToolTip": "C:\\Users\\ngoc.hh\\Desktop\\MyWebAPI\\MyWebAPI\\Models\\HangHoa.cs",
+              "RelativeToolTip": "MyWebAPI\\Models\\HangHoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T03:50:19.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ngoc.hh\\Desktop\\MyWebAPI\\MyWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "MyWebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\ngoc.hh\\Desktop\\MyWebAPI\\MyWebAPI\\appsettings.json",
+              "RelativeToolTip": "MyWebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-02T09:16:41.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ngoc.hh\\Desktop\\MyWebAPI\\MyWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MyWebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\ngoc.hh\\Desktop\\MyWebAPI\\MyWebAPI\\Program.cs",
+              "RelativeToolTip": "MyWebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T06:09:44.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\ngoc.hh\\Desktop\\MyWebAPI\\MyWebAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "MyWebAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\ngoc.hh\\Desktop\\MyWebAPI\\MyWebAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "MyWebAPI\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T06:10:04.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HangHoa.cs",
+              "DocumentMoniker": "C:\\Users\\ngoc.hh\\Desktop\\MyWebAPI\\MyWebAPI\\Data\\HangHoa.cs",
+              "RelativeDocumentMoniker": "MyWebAPI\\Data\\HangHoa.cs",
+              "ToolTip": "C:\\Users\\ngoc.hh\\Desktop\\MyWebAPI\\MyWebAPI\\Data\\HangHoa.cs",
+              "RelativeToolTip": "MyWebAPI\\Data\\HangHoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T05:57:09.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HangHoaController.cs",
+              "DocumentMoniker": "C:\\Users\\ngoc.hh\\Desktop\\MyWebAPI\\MyWebAPI\\Controllers\\HangHoaController.cs",
+              "RelativeDocumentMoniker": "MyWebAPI\\Controllers\\HangHoaController.cs",
+              "ToolTip": "C:\\Users\\ngoc.hh\\Desktop\\MyWebAPI\\MyWebAPI\\Controllers\\HangHoaController.cs",
+              "RelativeToolTip": "MyWebAPI\\Controllers\\HangHoaController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswC4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T03:54:23.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\ngoc.hh\\Desktop\\MyWebAPI\\MyWebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "MyWebAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\ngoc.hh\\Desktop\\MyWebAPI\\MyWebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "MyWebAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T09:25:40.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ngoc.hh\\Desktop\\MyWebAPI\\MyWebAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MyWebAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ngoc.hh\\Desktop\\MyWebAPI\\MyWebAPI\\Models\\User.cs",
+              "RelativeToolTip": "MyWebAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:33:54.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MyWebAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\ngoc.hh\\Desktop\\MyWebAPI\\MyWebAPI\\MyWebAPI.csproj",
+              "RelativeDocumentMoniker": "MyWebAPI\\MyWebAPI.csproj",
+              "ToolTip": "C:\\Users\\ngoc.hh\\Desktop\\MyWebAPI\\MyWebAPI\\MyWebAPI.csproj",
+              "RelativeToolTip": "MyWebAPI\\MyWebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-14T03:42:26.111Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
