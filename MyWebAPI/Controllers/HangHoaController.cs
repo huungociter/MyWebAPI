@@ -22,10 +22,11 @@ namespace MyWebAPI.Controllers
         [HttpPost]
         public IActionResult Create()
         {
+            var random = new Random();
             var user = new User
             {
                 Name = "Ngoc",
-                Id = 123
+                Id = random.Next(1, 10000)
             };
 
             _context.Users.Add(user);
