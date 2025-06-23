@@ -7,15 +7,16 @@ EXPOSE 80
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
 
-COPY *.sln .
+# Copy solution and restore
 COPY MyWebAPI/*.csproj ./MyWebAPI/
 RUN dotnet restore ./MyWebAPI/MyWebAPI.csproj
 
+# Copy source and publish
 COPY . .
 WORKDIR /src/MyWebAPI
 RUN dotnet publish -c Release -o /app/publish
 
-# Final image
+# Final stage
 FROM base AS final
 WORKDIR /app
 COPY --from=build /app/publish .
